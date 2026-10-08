@@ -1,0 +1,122 @@
+PAYROLL PROS - PAYROLL RESULTS
+======================================================================
+
+Employee: Christopher umoren
+Employee ID: 1001
+Dependents: 2
+Hours Worked: 40.00
+Hourly Rate: $20.00
+Gross Pay: $800.00
+State Tax: $44.80
+Federal Tax: $63.20
+Pre-Tax Amount: $800.00
+Post-Tax Amount: $692.00
+----------------------------------------------------------------------
+
+Employee: David Tucek
+Employee ID: 1002
+Dependents: 2
+Hours Worked: 40.00
+Hourly Rate: $20.00
+Gross Pay: $800.00
+State Tax: $44.80
+Federal Tax: $63.20
+Pre-Tax Amount: $800.00
+Post-Tax Amount: $692.00
+----------------------------------------------------------------------
+
+Employee: Vivek rathi
+Employee ID: 1003
+Dependents: 1
+Hours Worked: 40.00
+Hourly Rate: $22.00
+Gross Pay: $880.00
+State Tax: $49.28
+Federal Tax: $69.52
+Pre-Tax Amount: $880.00
+Post-Tax Amount: $761.20
+----------------------------------------------------------------------
+
+Employee: Mike Jagger
+Employee ID: 1004
+Dependents: 3
+Hours Worked: 45.00
+Hourly Rate: $25.00
+Gross Pay: $1187.50
+State Tax: $66.50
+Federal Tax: $93.81
+Pre-Tax Amount: $1187.50
+Post-Tax Amount: $1027.19
+----------------------------------------------------------------------
+
+Employee: Vlad oya
+Employee ID: 1005
+Dependents: 0
+Hours Worked: 45.00
+Hourly Rate: $20.00
+Gross Pay: $950.00
+State Tax: $53.20
+Federal Tax: $75.05
+Pre-Tax Amount: $950.00
+Post-Tax Amount: $821.75
+----------------------------------------------------------------------
+
+Employee: zach hamby
+Employee ID: 1006
+Dependents: 4
+Hours Worked: 50.00
+Hourly Rate: $30.00
+Gross Pay: $1650.00
+State Tax: $92.40
+Federal Tax: $130.35
+Pre-Tax Amount: $1650.00
+Post-Tax Amount: $1427.25
+----------------------------------------------------------------------
+
+Employee: Auzio michael
+Employee ID: 1007
+Dependents: 1
+Hours Worked: 42.00
+Hourly Rate: $21.00
+Gross Pay: $903.00
+State Tax: $50.57
+Federal Tax: $71.34
+Pre-Tax Amount: $903.00
+Post-Tax Amount: $781.10
+----------------------------------------------------------------------
+
+Employee: zugga zugga
+Employee ID: 1008
+Dependents: 0
+Hours Worked: 40.00
+Hourly Rate: $17.00
+Gross Pay: $680.00
+State Tax: $38.08
+Federal Tax: $53.72
+Pre-Tax Amount: $680.00
+Post-Tax Amount: $588.20
+----------------------------------------------------------------------
+
+Employee: Lucio Salgado
+Employee ID: 1009
+Dependents: 1
+Hours Worked: 32.00
+Hourly Rate: $24.00
+Gross Pay: $768.00
+State Tax: $43.01
+Federal Tax: $60.67
+Pre-Tax Amount: $768.00
+Post-Tax Amount: $664.32
+----------------------------------------------------------------------
+
+Employee: George sonuga
+Employee ID: 1010
+Dependents: 3
+Hours Worked: 45.00
+Hourly Rate: $25.00
+Gross Pay: $1187.50
+State Tax: $66.50
+Federal Tax: $93.81
+Pre-Tax Amount: $1187.50
+Post-Tax Amount: $1027.19
+----------------------------------------------------------------------
