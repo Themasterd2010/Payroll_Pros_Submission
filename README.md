@@ -21,6 +21,6 @@ Run it:
 python main.py
 
 Team:
-David Tucek • Christopher Umoren Jnr  • Vivek Rathi • Mikhail Avanesyan(use he's actual name pls lol)
+David Tucek • Christopher Umoren Jnr  • Vivek Rathi • Mikhail Avanesyan
 
 Payroll Pros...making payroll less painful.
